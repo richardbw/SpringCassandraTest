@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: RBW Spring boot/cassandra test app
+  data:
+    cassandra:
+      keyspace-name: work
+      contact-points: cassandra
